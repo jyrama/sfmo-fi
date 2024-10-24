@@ -20,7 +20,12 @@ Nu är det tid för ändring.
 
 **Luuppi** koodaa for-lauseen loputtomaksi…
 
-Aaltosulku **Lateksii** ja aaltosulku kii
+Aaltosulku **Lateksii** ja aaltosulku kii…
+
+**Kvantit** ovat kvantittuneet Savilahdella…
+
+:,: Nobody has any clue what **Integralis** does :,: x3
+It's time to right the wrongs!
 
 **Hyeenan** naurun kaiku kuuluu jostain taustalta…
 
@@ -30,4 +35,4 @@ Aaltosulku **Lateksii** ja aaltosulku kii
 
 **Epsilonin** touhu ompi mielivaltaista…
 
-**Delta** ompi usein merkki muutokselle
+**Delta** onpi usein merkki muutokselle
